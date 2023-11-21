@@ -24,6 +24,6 @@ Linkek:
 
 [Statikus weboldal](https://github.com/savger1024/HTML-CSS-JS/): Egyszerű statikus oldal egy futóversenyről.
 
-**HTML működtetése; CSS működtetése; JS működtetése; kép beszúrás; bekezdés beszúrás. HTML: < title >; < h1 >; < p >; < img > < link >; < script >;**
+**HTML működtetése; CSS működtetése; JS működtetése; kép beszúrás; bekezdés beszúrás. HTML: < title >; < h1 >; < p >; < img > < link >; < script >; Bootstrap használat**
 
 **CSS: id; background-color; width. JS: function; if, a < button > ID alapján.**
