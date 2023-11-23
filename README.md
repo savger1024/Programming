@@ -27,3 +27,5 @@ Linkek:
 **HTML működtetése; CSS működtetése; JS működtetése; kép beszúrás; bekezdés beszúrás. HTML: < title >; < h1 >; < p >; < img > < link >; < script >; Bootstrap használat**
 
 **CSS: id; background-color; width. JS: function; if, a < button > ID alapján.**
+
+[PHP](https://github.com/savger1024/PHP): változó deklarálás, definiálás; echo.
