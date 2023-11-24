@@ -22,7 +22,15 @@ Linkek:
 
 [Címlet számolás](https://github.com/savger1024/Vegyes/tree/main/C%23/CimletFeladat): Adott int tömb mellett megszámolja, melyik címletből/érméből hány darab van. **C#: for/foreach; Dictionary használat; objektum lista; példányosítás.**
 
-[Statikus weboldal](https://github.com/savger1024/HTML-CSS-JS/): Egyszerű statikus oldal egy futóversenyről.
+
+
+[HTML, CSS](https://github.com/savger1024/HTML-CSS-JS/):
+
+Youtube "Videó" Elrendezés: Fejléc, oldalsó menü, videók helye. Van Világos és Sötét mód.
+
+**CSS: display:flex; padding-bottom;** **JS: getElementById; element.style.backgroundColor**
+
+Egyszerű statikus oldal egy futóversenyről.
 
 **HTML működtetése; CSS működtetése; JS működtetése; kép beszúrás; bekezdés beszúrás. HTML: < title >; < h1 >; < p >; < img > < link >; < script >; Bootstrap használat**
 
