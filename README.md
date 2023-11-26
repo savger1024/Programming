@@ -26,6 +26,10 @@ Linkek:
 
 [HTML, CSS](https://github.com/savger1024/HTML-CSS-JS/):
 
+Tile Placer: Gombok nyomásával különbözző színű csempék hozhatók létre, amik egy sorban egymás mellett helyezkednek el. A csempék kattintásra színt váltanak.
+
+**JS: getElementById, createElement, appendChild, concatenation**
+
 Youtube "Videó" Elrendezés: Fejléc, oldalsó menü, videók helye. Van Világos és Sötét mód.
 
 **CSS: display:flex; padding-bottom;** **JS: getElementById; element.style.backgroundColor**
