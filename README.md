@@ -40,4 +40,6 @@ Egyszerű statikus oldal egy futóversenyről.
 
 **CSS: id; background-color; width. JS: function; if, a < button > ID alapján.**
 
-[PHP](https://github.com/savger1024/PHP): változó deklarálás, definiálás; echo.
+[PHP](https://github.com/savger1024/PHP): fájl írás; fájl beolvasás; include / require; function; while.
+
+[React](https://github.com/savger1024/React): Projekt létrehozás; komponens létrehozás; dinamikus kilistázás.
