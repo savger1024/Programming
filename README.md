@@ -43,3 +43,5 @@ Egyszerű statikus oldal egy futóversenyről.
 [PHP](https://github.com/savger1024/PHP): fájl írás; fájl beolvasás; include / require; function; while.
 
 [React](https://github.com/savger1024/React): Projekt létrehozás; komponens létrehozás; dinamikus kilistázás.
+
+[ASP.NET](https://github.com/savger1024/ASP.NET-1): Adatbázis kapcsolat ([SSMS](https://learn.microsoft.com/en-us/sql/ssms/sql-server-management-studio-ssms?view=sql-server-ver16))
