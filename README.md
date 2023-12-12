@@ -12,6 +12,8 @@ A mappa tartalma:
 
 Linkek:
 
+
+
 [CsharpSQL](https://github.com/savger1024/Vegyes/tree/main/C%23/CsharpSQL): **Felhasználóval való párbeszéden keresztül hajt végre SQL utasításokat SQLite adatbázison.**
 
 **Egyéb: NuGet Package használat; Visual Studio használat.**
@@ -39,6 +41,8 @@ Egyszerű statikus oldal egy futóversenyről.
 **HTML működtetése; CSS működtetése; JS működtetése; kép beszúrás; bekezdés beszúrás. HTML: < title >; < h1 >; < p >; < img > < link >; < script >; Bootstrap használat**
 
 **CSS: id; background-color; width. JS: function; if, a < button > ID alapján.**
+
+[WPF1](https://github.com/savger1024/WPF4)
 
 [PHP](https://github.com/savger1024/PHP): fájl írás; fájl beolvasás; include / require; function; while.
 
