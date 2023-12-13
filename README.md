@@ -42,7 +42,7 @@ Egyszerű statikus oldal egy futóversenyről.
 
 **CSS: id; background-color; width. JS: function; if, a < button > ID alapján.**
 
-[WPF1](https://github.com/savger1024/WPF4) [WPF2](https://github.com/savger1024/WPF5)
+[WPF1](https://github.com/savger1024/WPF4) [WPF2](https://github.com/savger1024/WPF5) [WPF3](https://github.com/savger1024/WPF6-RowDefinition-ColumnDefinition-etc)
 
 [PHP](https://github.com/savger1024/PHP): fájl írás; fájl beolvasás; include / require; function; while.
 
